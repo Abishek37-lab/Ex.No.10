@@ -1,10 +1,6 @@
 # Ex.No.10  
 # Content Creation Using Prompt Patterns  
 
-## Date: 10-09-26
-## Name : Akshaya Lakshmi V
-## Reg. No : 212224060014
-
 ---
 
 ## Aim:
